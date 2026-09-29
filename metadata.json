@@ -1,0 +1,6 @@
+{
+  "name": "Birthday Surprise & Romantic Proposal",
+  "description": "An interactive, cinematic 3D birthday surprise journey that unfolds from a hilarious mission into an unforgettable romantic proposal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
